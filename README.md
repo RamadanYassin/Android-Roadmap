@@ -1,5 +1,17 @@
-# Android Roadmap
-
+# Roadmap Android Native 
+- [ ] Kotlin lang, XML
+- [ ] Jetpack Compose UI   
+- [ ] MVP, MVVM    
+- [ ] Rest APls (LB Retrofit)   
+- [ ] Coroutines ⟶ Kotlin 
+- [ ] Room ⟶ local data base   
+- [ ] MVI `⟶Start apply to internship`
+- [ ] Optional
+   - Dependency Injection (Hilt, Coin)
+   - Clean Arch (Modules, repos, use case, ….)
+     
+- Source
+  - [Guide me on Android market Arabic](https://youtu.be/gTWn6TE8hVM?si=KNNUOk7zt3nr3aYj)
 
 ### Recommended Order
 
