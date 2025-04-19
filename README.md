@@ -1,5 +1,7 @@
 # Android Developer Roadmap
-- Stack --> Kotlin + Jetpack Compose
+
+
+
 ## Contents
 1. [Roadmap](#roadmap)
    1. [Basic](#basic)
@@ -7,6 +9,10 @@
    3. [Advanced](#advanced)
 2. [Sources](#sources)
 3. [Tips](#tips)
+
+
+Why This Order?
+This roadmap guides you through becoming an Android Native developer using Kotlin and Jetpack Compose, avoiding "tutorial hell" by balancing structured learning with hands-on projects. Follow the sequence to build skills progressively, create portfolio projects, and prepare for internships or junior roles.
 
 
 
@@ -26,8 +32,6 @@
    - Dependency Injection (Hilt, Coin)
    - Clean Arch (Modules, repos, use case)
 
-Why This Order?
-This roadmap guides you through becoming an Android Native developer using Kotlin and Jetpack Compose, avoiding "tutorial hell" by balancing structured learning with hands-on projects. Follow the sequence to build skills progressively, create portfolio projects, and prepare for internships or junior roles.
 
 ## Basic
 **Goal**: Learn Kotlin and Jetpack Compose to build simple Android apps.
